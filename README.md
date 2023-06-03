@@ -53,7 +53,7 @@ Add your Sitesurface Flutter Deploy configuration to your `pubspec.yaml`. An exa
 
 ```yaml
 dev_dependencies:
-  sitesurface_flutter_deploy: "^0.0.1"
+  sitesurface_flutter_deploy: "^0.0.2"
 
 sitesurface_flutter_deploy:
   repository: "<url of repository where you want to deploy>"
