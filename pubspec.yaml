@@ -2,8 +2,8 @@ name: sitesurface_flutter_deploy
 description: Deploy you flutter website to github
 version: 0.0.1
 homepage: https://sitesurface.com
-repository: https://github.dev/Sitesurface/sitesurface_flutter_deploy
-issue_tracker: https://github.dev/Sitesurface/sitesurface_flutter_deploy/issues
+repository: https://github.com/Sitesurface/sitesurface_flutter_deploy
+issue_tracker: https://github.com/Sitesurface/sitesurface_flutter_deploy/issues
 
 environment:
   sdk: '>=3.0.2 <4.0.0'
