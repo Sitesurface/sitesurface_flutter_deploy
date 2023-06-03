@@ -83,7 +83,7 @@ Note: If you are not using the existing `pubspec.yaml` ensure that your config f
 Shown below is the full list of attributes which you can specify within your Sitesurface Flutter Deploy configuration.
 
 - `repository`: The url of Github Repository where you want to deploy your site.
-- `build`: If you don't override the commands used by package to build the web project then you can pass your commands here
+- `build`: If you want to override the commands used by package to build the web project then you can pass your commands here
 
 ## Issues and feedback
 
